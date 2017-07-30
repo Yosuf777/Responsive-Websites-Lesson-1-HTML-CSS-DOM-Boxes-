@@ -1,0 +1,32 @@
+body{
+  
+  padding:45px;
+}
+h1{
+  background-color:#33bebe;
+}
+.Description {
+  color:red;
+  font-style: ;
+    font-weight: bold;
+    padding:35px;
+
+}
+ {
+   outline: 1px solid red !important;
+}
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+} 
+.app {
+    display: flex;
+}
+img {
+  margin:0;
+    padding:0;
+
+}
